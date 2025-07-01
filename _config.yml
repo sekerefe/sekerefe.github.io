@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Altuğ Yalçıntaş
+title: Homepage of Altuğ Yalçıntaş
 email: altug.yalcintas@politics.ankara.edu.tr
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage of Altuğ Yalçıntaş. Altuğ Yalçıntaş is a computational social scientist and independent singer and songwriter. He is a professor at Ankara University.
   In his research Altuğ Yalçıntaş focuses on the applications of artificial intelligence in scientific knowledge production and humanities research.
 twitter_username: EconResEthics
 github_username: sekerefe
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
