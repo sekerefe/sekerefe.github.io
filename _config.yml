@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Altuğ Yalçıntaş
-email:
+email: altug.yalcintas@politics.ankara.edu.tr
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Homepage of Altuğ Yalçıntaş. Altuğ Yalçıntaş is a computational social scientist and independent singer and songwriter. He is a professor at Ankara University.
+  In his research Altuğ Yalçıntaş focuses on the applications of artificial intelligence in scientific knowledge production and humanities research.
+twitter_username: EconResEthics
+github_username: sekerefe
 minimal_mistakes_skin: default
 search: true
 
@@ -29,7 +28,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 1 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -79,13 +78,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://x.com/EconResEthics"
+    - label: "ORCID"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://orcid.org/0000-0002-3344-0497"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/altug.yalcintas/"
 
 defaults:
   # _posts
