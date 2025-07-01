@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   In his research Altuğ Yalçıntaş focuses on the applications of artificial intelligence in scientific knowledge production and humanities research.
 twitter_username: EconResEthics
 github_username: sekerefe
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: default 
 search: true
 
 # Build settings
