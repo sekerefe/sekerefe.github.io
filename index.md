@@ -14,5 +14,3 @@ I’m a computational social scientist with a research and teaching focus on the
 I'm also an independent singer and songwriter who enjoys creating melodies with simple chords on acoustic guitar. My musical journey began in the 1990s when I explored the rich traditions of Turkish folk music alongside progressive rock. Today, I find inspiration in minimalist electronic music from around the globe. I experiment with computerized tools to produce and record demo songs in my home studio.
 
 [Listen to my music on Spotify.](https://open.spotify.com/artist/5jP3lpQjZrTekDv5cPANXt)
-
-Explore my courses on GitHub.
