@@ -1,7 +1,5 @@
 main:
-  - title: "Research"
+  - title: "Current Research"
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "Music"
-    url: /music/

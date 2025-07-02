@@ -88,15 +88,12 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:altug.yalcintas@politics.ankara.edu.tr"
     - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
       url: "https://x.com/EconResEthics"
-    - label: "ORCID"
-      icon: "fa-brands fa-orcid"
-      url: "https://orcid.org/0000-0002-3344-0497"
-    - label: "Instagram"
-      icon: "fa fa-instagram"
-      url: "https://www.instagram.com/altug.yalcintas/"
 
 defaults:
   # _posts
