@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I’m an aspiring computational social scientist with a research and teaching focus on the applications of artificial intelligence in scientific knowledge production and humanities research. After publishing books and journal articles in institutional and evolutionary economics for more than 10 years, I decided to develop my skills in data analysis with Python programming. Currently, I'm leading a project where my colleagues and I document over 700 economists, translators, and scholars who have shaped economic thought in the Republic of Türkiye and the Ottoman Empire since the 1800s. We curate detailed biographical, bibliographical, and textual datasets that we to power various AI tools for analysis, visualization, and essay generation.
+I’m an aspiring computational social scientist with a research and teaching focus on the applications of artificial intelligence in scientific knowledge production and humanities research. After publishing in institutional and evolutionary economics for more than 10 years, I decided to develop my skills in data analysis with Python programming. Currently, I'm leading a project where my colleagues and I document over 700 economists, translators, and scholars who have shaped economic thought in the Republic of Türkiye and the Ottoman Empire since the 1800s. We curate detailed biographical, bibliographical, and textual datasets that we to power various AI tools for analysis, visualization, and essay generation.
 
 [Read more about the project on GitHub.](https://github.com/sekerefe/TRPolecon)
 
