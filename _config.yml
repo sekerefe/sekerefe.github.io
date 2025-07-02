@@ -82,9 +82,6 @@ author:
     - label: "Instagram"
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/altug.yalcintas/"
-
-footer:
-  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:altug.yalcintas@politics.ankara.edu.tr"
