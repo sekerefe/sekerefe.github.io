@@ -77,7 +77,7 @@ author:
       icon: "fa-brands fa-github"
       url: "https://sekerefe.github.io"
     - label: "Tableau Public"
-      icon: "fa-brands fa-tableau"
+      icon: "fa-solid fa-table"
       url: "https://public.tableau.com/app/profile/altug.yalcintas"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin-in"
