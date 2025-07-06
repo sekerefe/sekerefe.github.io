@@ -1,1 +1,1 @@
-I used the Minimal Mistakes remote theme starter. [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+I used the Minimal Mistakes remote theme starter for my GitHub website. [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
