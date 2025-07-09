@@ -8,7 +8,7 @@ author_profile: true
 
 I am an aspiring computational social scientist with a research and teaching focus on the applications of artificial intelligence in scientific knowledge production and digital humanities. Following more than a decade of publishing in institutional and evolutionary economics, I began developing advanced data analysis skills through Python, Tableau, and the good old spreadsheets. I am currently leading a project that documents over 700 economists, translators, and scholars who have shaped economic thought in the Republic of Türkiye and the Ottoman Empire since the 1800s. Together with my colleagues, we curate comprehensive biographical, bibliographical, and textual datasets, which we use to power a range of AI tools for analysis, visualization, and automated essay generation.
 
-[Read more about the project on GitHub.](https://github.com/sekerefe/TRPolecon)
+[Read more about the project on GitHub.](https://github.com/sekerefe/TRPolEcon_Public)
 
 [Explore my courses on GitHub Education.](https://github.com/Al2-courses)
 
